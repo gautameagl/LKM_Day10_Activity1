@@ -1,0 +1,6 @@
+projectKey=com.lkm_project:com.lkm_project_day10
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/com.lkm_project:com.lkm_project_day10
+ceTaskId=AYkbM7fshzukafjsJTRo
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYkbM7fshzukafjsJTRo
